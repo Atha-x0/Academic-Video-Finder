@@ -1,0 +1,6 @@
+Flask==2.3.3
+PyPDF2==3.0.1
+python-pptx==0.6.23
+youtube-search==2.1.2
+Werkzeug==2.3.7
+requests==2.31.0
